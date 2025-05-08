@@ -1,9 +1,10 @@
 <!--3FCED7-->
+<!--"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=b41c34&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra"-->
 
 <p align="center"><sub>That's me as a kid playing Need for Speed.</sub></p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=b41c34&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra" />
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=10000&pause=500&color=B41C34&center=true&vCenter=true&repeat=false&width=500&lines=Naganandana+Nagendra"/>
 </h1>
 
 
