@@ -70,12 +70,12 @@ Feel free to connect or collaborate — I love talking about GenAI, open-source,
 </p>
 
 -->
+<p align="center"><sub>Thats me as a kid playing Need for Speed — my favorite game growing up.</sub></p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=3FCED7&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra" />
 </h1>
 
-<p align="center"><sub>Thats me as a kid playing Need for Speed — my favorite game growing up.</sub></p>
 
 <h3 align="center">
   <b>Generative AI | Computer Vision | IoT</b>
@@ -88,6 +88,6 @@ When I’m not building something, I’m probably **speedcubing** or solving **s
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naganandana" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
