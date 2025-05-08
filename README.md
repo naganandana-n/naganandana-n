@@ -12,8 +12,8 @@
 </h3>
 
 - I'm a final year CS student at BITS Pilani, building things where AI meets sensors, cameras, and code.
-- I’m currently interning at ADNOC, where I work on AI-powered dashboards for maritime crew safety. Alongside that, I work part time at Arbitrary, building creative GenAI projects like an OpenCV system that tracks elapsed time on vinyl records.
-- When I’m not building something, I’m probably [speedcubing](https://www.worldcubeassociation.org/persons/2015NAGE01) or solving [sudoku](https://sudoku.coach/en/user/5641322/naganandana/overview) puzzles.
+- I’m currently interning at <a href="https://adnocls.ae" target="_blank"><b>ADNOC</b></a>, where I work on AI-powered dashboards for maritime crew safety. Alongside that, I work part time at <a href="https://arbitrarysolutions.com" target="_blank"><b>Arbitrary</b></a>, building creative GenAI projects like an OpenCV system that tracks elapsed time on vinyl records.
+- When I’m not building something, I’m probably <a href="https://www.worldcubeassociation.org/persons/2015NAGE01" target="_blank">speedcubing</a> or solving sudoku puzzles.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naganandana" target="_blank">
