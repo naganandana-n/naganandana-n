@@ -1,3 +1,5 @@
+<!--
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00C3FF&center=true&vCenter=true&width=500&lines=Naganandana+Nagesh" />
 </h1>
@@ -66,3 +68,5 @@ Feel free to connect or collaborate — I love talking about GenAI, open-source,
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2bWVubnZjM3Z5cGZ3a2ExN2dnajI2cXR5amNyc3dsNGppYjBqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="400" style="border-radius: 10px; border: 2px solid #00c3ff;" />
 </p>
+
+-->
