@@ -75,13 +75,13 @@ Feel free to connect or collaborate — I love talking about GenAI, open-source,
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=3FCED7&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra" />
 </h1>
 
-<p align="center"><sub>The profile picture on the left is me me as a kid playing Need for Speed — my favorite game growing up.</sub></p>
+
 
 <h3 align="center">
   <b>Generative AI | Computer Vision | IoT</b>
 </h3>
 
----
+<p align="center"><sub>Thats me as a kid playing Need for Speed — my favorite game growing up.</sub></p>
 
 I'm a final-year Computer Science student at BITS Pilani, Dubai, working on projects that combine **Generative AI**, **Computer Vision**, and **Real-time IoT**.  
 At ADNOC, I'm developing AI-powered dashboards for maritime safety. At Arbitrary, I explore creative applications of AI—from smart wearables like Nana’s gamer hoodie to DJ tools that read vinyl grooves.
