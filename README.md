@@ -9,9 +9,9 @@
   <b>Generative AI | Computer Vision | IoT</b>
 </h3>
 
-- I'm a final-year Computer Science student at BITS Pilani, Dubai, working on projects that combine **Generative AI**, **Computer Vision**, and **Real-time IoT**.  
+- I'm a final-year Computer Science student at BITS Pilani, Dubai, working on projects that combine Generative AI, Computer Vision, and Real-time IoT.  
 - At ADNOC, I'm working as an intern on AI powered dashboards for maritime safety. At Arbitrary, I work part time, exploring creative applications of AI, from smart wearables like Nana’s gamer hoodie to DJ tools that read vinyl grooves.
-- When I’m not building something, I’m probably **speedcubing** or solving **sudoku** puzzles.
+- When I’m not building something, I’m probably speedcubing or solving sudoku puzzles.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naganandana" target="_blank">
