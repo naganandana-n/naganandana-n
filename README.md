@@ -1,7 +1,9 @@
+<!--3FCED7-->
+
 <p align="center"><sub>That's me as a kid playing Need for Speed.</sub></p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=3FCED7&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=b41c34&center=true&vCenter=true&width=500&lines=Naganandana+Nagendra" />
 </h1>
 
 
